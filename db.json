@@ -1,0 +1,36 @@
+{
+  "Item": [
+    {
+      "tovarName": "Intel core-i3 12 100f",
+      "tovarCategory": "i3",
+      "tovarImage": "https://avatars.mds.yandex.net/get-mpic/5334770/img_id3888413968811080192.jpeg/orig",
+      "tovarPrice": "8000c",
+      "tovarText": "CPU LGA1700 Intel Core i3-12100F 3.3-4.3GHz,12MB Cache L3,EMT64,4 Cores+8 Threads,Tray,Alder Lake",
+      "id": 1
+    },
+    {
+      "tovarName": "Intel Core i9-13900K",
+      "tovarCategory": "i9",
+      "tovarImage": "https://m.media-amazon.com/images/I/613CfTnpwoL.jpg",
+      "tovarPrice": "54 500c",
+      "tovarText": "Процессор Intel Core i9-13900K, LGA1700, 3.0-5.8GHz, 36MB Cache, Intel® UHD Graphics 770, Raptor Lake, 24 Cores + 32 Threads, Tray",
+      "id": 2
+    },
+    {
+      "tovarName": "Intel Core i5-12400F",
+      "tovarCategory": "i5",
+      "tovarImage": "https://m.media-amazon.com/images/I/51c31j500TL._AC_UF1000,1000_QL80_.jpg",
+      "tovarPrice": "23 000c",
+      "tovarText": "Процессор Intel Core i5-12400F, LGA1700, 2.50-4.40GHz, 6xCores, 18MB Cache, Tray, no VGA, Alder Lake",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "login": "m",
+      "password": "m",
+      "isAdmin": true,
+      "id": 1
+    }
+  ]
+}

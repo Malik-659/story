@@ -1,0 +1,120 @@
+.nav-btn-accardion {
+  width: 150px;
+  height: 50px;
+}
+.login {
+  margin-right: 5%;
+} 
+.navbar-collapse {
+  display: flex;
+  justify-content: end;
+}
+.card-text {
+  overflow-wrap: break-word;
+}
+.cardItem {
+  background: rgb(200, 200, 200);
+}
+.container-catedory {
+  margin: 5% auto;
+  display: flex;
+  width: 50vw;
+  height: auto;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.container-catedory button {
+  width: auto;
+  min-width: 60px;
+  height: 30px;
+  background: rgb(45, 45, 57);
+  border-radius: 15px;
+  border: 2px solid rgb(124, 124, 124);
+  color: white;
+}
+.container-catedory button:hover {
+  background: rgb(24, 24, 32);
+  border: 2px solid rgb(255, 0, 0);
+}
+.navbar-brand {
+  margin-left: 2%;
+  font-weight: 600;
+  font-size: 2em;
+}
+
+/* MODAL START */
+.container-modal {
+  width: 40vw;
+  height: auto;
+  background: rgb(45, 45, 57);
+  border-radius: 20px;
+  border: 5px solid rgb(124, 124, 124);
+  position: fixed;
+  left: 30%;
+  right: auto;
+  bottom: auto;
+  top: auto;
+  z-index: 2;
+}
+.modal-reg {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.input {
+  width: 80%;
+  height: 40px;
+  border-radius: 10px;
+  margin: 2%;
+}
+.btnLog {
+  width: 30%;
+  height: 50px;
+  border-radius: 15px;
+  background-color: rgb(47, 182, 20);
+  margin-top: 5%;
+}
+.btnCloseModal {
+  width: 25%;
+  height: 40px;
+  border-radius: 15px;
+  background-color: rgb(182, 20, 20);
+  margin-top: 2%;
+  margin-bottom: 5%;
+}
+
+.container-details-modal {
+  width: 50vw;
+  height: auto;
+  background: rgb(45, 45, 57);
+  color: white;
+  border-radius: 20px;
+  border: 5px solid rgb(124, 124, 124);
+  position: fixed;
+  left: 30%;
+  right: auto;
+  bottom: auto;
+  top: auto;
+  z-index: 2;
+  text-align: center;
+}
+.container-details {
+  display: flex;
+}
+.details-info {
+  height: auto;
+  margin-top: 3%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+.details-img {
+  width: 240px;
+  height: 280px;
+  border-radius: 5px;
+  margin-top: 3%;
+  margin-left: 5%;
+  margin-bottom: 5%;
+}
+/* MODAL END */
